@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2페이지 level 1 6번 - �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2페이지 level 1 7번 - 정수내림차순으로배치하기", "2페이지 level 1 7번 - 정수내림차순으로배치하기\2페이지 level 1 7번 - 정수내림차순으로배치하기.csproj", "{BA93DE36-8EDF-47D5-9958-99084C896526}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2페이지 level 1 8번 - 자연수 뒤집어 배열로 만들기", "2페이지 level 1 8번 - 자연수 뒤집어 배열로 만들기\2페이지 level 1 8번 - 자연수 뒤집어 배열로 만들기.csproj", "{7DABA517-1FD7-4134-8CB3-E8AE86F2114F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BA93DE36-8EDF-47D5-9958-99084C896526}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA93DE36-8EDF-47D5-9958-99084C896526}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA93DE36-8EDF-47D5-9958-99084C896526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DABA517-1FD7-4134-8CB3-E8AE86F2114F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DABA517-1FD7-4134-8CB3-E8AE86F2114F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DABA517-1FD7-4134-8CB3-E8AE86F2114F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DABA517-1FD7-4134-8CB3-E8AE86F2114F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
