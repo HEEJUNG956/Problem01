@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2페이지 level 1 9번 - �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2페이지 level 1 10번 - 이상한문자만들기", "2페이지 level 1 10번 - 이상한문자만들기\2페이지 level 1 10번 - 이상한문자만들기.csproj", "{D87BF38D-3F21-43BB-B260-99CBC45FC657}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2페이지 level 1 11번 - 약수의합", "2페이지 level 1 11번 - 약수의합\2페이지 level 1 11번 - 약수의합.csproj", "{3A385319-D441-4178-9926-34BF5AD897BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D87BF38D-3F21-43BB-B260-99CBC45FC657}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D87BF38D-3F21-43BB-B260-99CBC45FC657}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D87BF38D-3F21-43BB-B260-99CBC45FC657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A385319-D441-4178-9926-34BF5AD897BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A385319-D441-4178-9926-34BF5AD897BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A385319-D441-4178-9926-34BF5AD897BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A385319-D441-4178-9926-34BF5AD897BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
