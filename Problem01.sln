@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2페이지 level 1 6번 - 정수제곱근판별", "2페이지 level 1 6번 - 정수제곱근판별\2페이지 level 1 6번 - 정수제곱근판별.csproj", "{91541126-2BC6-4F40-AAFD-A26D766E5574}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2페이지 level 1 7번 - 정수내림차순으로배치하기", "2페이지 level 1 7번 - 정수내림차순으로배치하기\2페이지 level 1 7번 - 정수내림차순으로배치하기.csproj", "{BA93DE36-8EDF-47D5-9958-99084C896526}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{91541126-2BC6-4F40-AAFD-A26D766E5574}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91541126-2BC6-4F40-AAFD-A26D766E5574}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91541126-2BC6-4F40-AAFD-A26D766E5574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA93DE36-8EDF-47D5-9958-99084C896526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA93DE36-8EDF-47D5-9958-99084C896526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA93DE36-8EDF-47D5-9958-99084C896526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA93DE36-8EDF-47D5-9958-99084C896526}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
